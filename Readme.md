@@ -38,4 +38,4 @@ expo start
 
 ## License
 
-MIT
+[MIT](LICENSE.md)
