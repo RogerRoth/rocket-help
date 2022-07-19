@@ -3,7 +3,9 @@
 Projeto desenvolvido na Ignite Lab, evento totalmente gratuíto realizado pela RocketSeat
 
 ## Figma
-<img align="center" src="https://raw.githubusercontent.com/gist/RogerRoth/f50569647d0200c83a25dc2908d33bb4/raw/8e49a00a829aae6f5bd829f2d1e8f6b8940c88c1/rockethelp-figma.svg" alt="RocketHelp figma" href="https://www.figma.com/file/DsCu3AkEOHDWZ99lZrjnOw/Rocket-Help---Ignite-Lab-(Community)?node-id=47%3A273"/>
+<a href="https://www.figma.com/file/DsCu3AkEOHDWZ99lZrjnOw/Rocket-Help---Ignite-Lab-(Community)?node-id=47%3A273">
+<img align="center" src="https://raw.githubusercontent.com/gist/RogerRoth/f50569647d0200c83a25dc2908d33bb4/raw/8e49a00a829aae6f5bd829f2d1e8f6b8940c88c1/rockethelp-figma.svg" alt="RocketHelp figma" />
+</a>
 
 ## Tecnologias
 
