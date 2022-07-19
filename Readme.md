@@ -19,7 +19,7 @@ RocketHelp requer [Node.js](https://nodejs.org/) e [Expo](https://expo.dev/).
 Instale as dependencias.
 
 ```sh
-cd dillinger
+cd rocket-help
 yarn
 ```
 
