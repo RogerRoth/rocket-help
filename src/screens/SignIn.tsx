@@ -58,7 +58,7 @@ export function SignIn(){
         InputLeftElement={<Icon as={<Envelope color={colors.gray[300]}/>} ml={4} />}
         onChangeText={setEmail}
       />
-      <Input 
+      <Input
         placeholder="Senha"
         mb={8}
         InputLeftElement={<Icon as={<Key color={colors.gray[300]}/>} ml={4} />}
